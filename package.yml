@@ -4,49 +4,72 @@ parent: default
 matches:
    - trigger: "aß1"
      replace: "ā"
+
    - trigger: "aß2"
      replace: "á"
+
    - trigger: "aß3"
      replace: "ǎ"
+
    - trigger: "aß4"
      replace: "à"
+
    - trigger: "eß1"
      replace: "ē"
+
    - trigger: "eß2"
      replace: "é"
+
    - trigger: "eß3"
      replace: "ě"
+
    - trigger: "eß4"
      replace: "è"
+
    - trigger: "iß1"
      replace: "ī"
+
    - trigger: "iß2"
      replace: "í"
+
    - trigger: "iß3"
      replace: "ì"
+
    - trigger: "iß4"
      replace: "ǐ"
+
    - trigger: "oß1"
      replace: "ō"
+
    - trigger: "oß2"
      replace: "ó"
+
    - trigger: "oß3"
      replace: "ǒ"
+
    - trigger: "oß4"
      replace: "ò"
+     
    - trigger: "uß1"
      replace: "ū"
+
    - trigger: "uß2"
      replace: "ú"
+
    - trigger: "uß3"
      replace: "ǔ"
+
    - trigger: "uß4"
      replace: "ù"
+
    - trigger: "üß1"
      replace: "ǖ"
+
    - trigger: "üß2"
      replace: "ǘ"
+
    - trigger: "üß3"
      replace: "ǚ"
+
    - trigger: "üß4"
      replace: "ǜ"
