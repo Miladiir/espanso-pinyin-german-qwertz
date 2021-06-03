@@ -33,10 +33,10 @@ matches:
      replace: "í"
 
    - trigger: "iß3"
-     replace: "ì"
+     replace: "ǐ"
 
    - trigger: "iß4"
-     replace: "ǐ"
+     replace: "ì"
 
    - trigger: "oß1"
      replace: "ō"
